@@ -77,7 +77,7 @@ function menuju() {
     confirmButtonText: 'OK',
     preConfirm: () => {
       // Swal close hone se pehle hi redirect
-      window.location.href = "./love/index.html";
+      window.location.href = "./love/index1.html";
       return false; // Swal ko close hone से रोकेगा
     }
   });
@@ -127,7 +127,7 @@ function menuju() {
     confirmButtonText: 'OK',
     preConfirm: () => {
       // Swal close hone se pehle hi redirect
-      window.location.href = "./love/index.html";
+      window.location.href = "./love/index1.html";
       return false; // Swal ko close hone से रोकेगा
     }
   });
